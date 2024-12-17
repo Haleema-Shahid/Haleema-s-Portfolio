@@ -1,0 +1,24 @@
+.margin-top-10{
+    margin-top: 10%;
+}
+.menu{
+    margin-top:30%;
+    margin-bottom: 30%;
+    /* background-color: red; */
+    width: 100%;
+    height:auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 !important;
+}
+.menu-button{
+    margin-top: 10% !important;
+    border: none !important;
+    border-radius: 0 !important;
+}
+.menu-button:hover{
+    /* color:black !important; */
+    /* background-color: white !important; */
+    background-color: transparent;
+    border-bottom: 1px solid blue !important;
+}
